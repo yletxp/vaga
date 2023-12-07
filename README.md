@@ -9,7 +9,7 @@ URL uteis:
 - [github doc](https://docs.github.com/pt/rest/search?apiVersion=2022-11-28)
 
 
-Você pode usar o seu framework SPA de preferencia, porém, seria desejavel para testes feitos em Next.Js
+Você pode usar o seu framework SPA de preferencia, porém, seria desejavel testes feitos em Next.Js
 
 A propósito, se você achar a API do Github um pouco boring demais, escolha outra coisa que você goste.
 
