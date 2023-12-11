@@ -21,9 +21,9 @@ Segue algumas ideias de API que pode ou não utilizar
 
 # Requisitos mínimos
 
-Usar um framework (de preferencia Next.js)
-Lista items de uma API
-Ter páginação via API
+- Usar um framework (de preferencia Next.js)
+- Lista items de uma API
+- Ter páginação via API
 
 # Avaliação
 
