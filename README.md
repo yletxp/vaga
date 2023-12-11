@@ -31,3 +31,13 @@ Segue algumas ideias de API que pode ou não utilizar
 - Semântica
 - Documentação do README
 - Segurança
+
+# Entrega
+Você deve enviar via pull request neste mesmo repositório
+
+Gostariamos de entender como você pensa e as decisões que você tomou durante o desenvolvimento. Então, quando for enviar seu pull request, por favor responda:
+
+- Qual ferramentas e bibliotecas (libraries, framework, tools etc) você usou
+- Porque você optou pela tecnologia X
+- Desafios que você enfrentou e como resolveu
+- O que você entende que pode ser melhorado e como fazer isso
