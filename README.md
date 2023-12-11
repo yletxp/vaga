@@ -15,11 +15,15 @@ A propósito, se você achar a API do Github um pouco boring demais, escolha out
 
 Segue algumas ideias de API que pode ou não utilizar
 
-
 - [SWAPI - Star Wars API Integrations](https://pipedream.com/apps/swapi)
-- [Advice Slip JSON API](https://api.adviceslip.com/#endpoint-random)
-- [brasilapi](https://brasilapi.com.br/)
+- [pokeapi](https://pokeapi.co/)
 
+
+# Requisitos mínimos
+
+Usar um framework (de preferencia Next.js)
+Lista items de uma API
+Ter páginação via API
 
 # Avaliação
 
@@ -27,5 +31,3 @@ Segue algumas ideias de API que pode ou não utilizar
 - Semântica
 - Documentação do README
 - Segurança
-
-
